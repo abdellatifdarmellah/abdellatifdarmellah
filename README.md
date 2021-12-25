@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdellatifdarmellah
-- 👀 I’m interested in programing (C language & Algorithms) , Video Editing , Blender
-- 🌱 I’m currently learning C language and blender
+- 👀 I’m interested in programing (C language & Algorithms) .
+- 🌱 I’m currently learning C language .
 
 <!---
 abdellatifdarmellah/abdellatifdarmellah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
