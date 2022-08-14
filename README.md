@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdellatifdarmellah
 - 👀 I’m interested in programing (App developement) .
-- 🌱 I’m currently learning Kotlin language and trying to create my first android app.
+- 🌱 I’m currently learning Android Basics in Kotlin.
 - 🌱 I have some experience in C, C++, Matlab, Assembly, HTML&CSS&JavaScript, Java, Python, SQL Languages
 
 
